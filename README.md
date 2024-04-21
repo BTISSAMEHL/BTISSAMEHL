@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Bt-20</h1>
 
-- 👀I'm a Student at *ALX Africa*
-
 - 🌱 I’m currently learning *Development Web*
 
 - 📫 How to reach me via *btissamehlial196@gmail.com*
